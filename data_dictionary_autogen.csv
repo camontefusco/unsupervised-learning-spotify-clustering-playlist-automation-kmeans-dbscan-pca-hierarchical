@@ -1,0 +1,20 @@
+column,dtype,example,note
+Unnamed:,int64,0,numeric feature
+name,object,Se Eu Quiser Falar Com Deus                                                                                                                                                      ,track name
+artist,object,Gilberto Gil                                    ,artist
+danceability,float64,0.658,numeric feature
+energy,float64,0.259,numeric feature
+key,int64,11,numeric feature
+loudness,float64,-13.141,numeric feature
+mode,int64,0,numeric feature
+speechiness,float64,0.0705,numeric feature
+acousticness,float64,0.694,numeric feature
+instrumentalness,float64,5.87e-05,numeric feature
+liveness,float64,0.975,numeric feature
+valence,float64,0.306,numeric feature
+tempo,float64,110.376,numeric feature
+type,object,     ,other
+duration_ms,int64,256213,numeric feature
+time_signature,int64,4,numeric feature
+id,object,1n7JnwviZ7zf0LR1tcGFq7 ,identifier
+html,object,https://open.spotify.com/track/1n7JnwviZ7zf0LR1tcGFq7,other
