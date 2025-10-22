@@ -1,0 +1,2 @@
+# unsupervised-learning-spotify-clustering-playlist-automation-kmeans-dbscan-pca-hierarchical
+A hands-on unsupervised learning case study using Spotify audio features for playlist automation. Implements and compares K-Means, DBSCAN, Hierarchical Clustering, and PCA to uncover mood- and genre-based song groupings. Includes feature scaling, dimensionality reduction, and model evaluation with visual insights.
