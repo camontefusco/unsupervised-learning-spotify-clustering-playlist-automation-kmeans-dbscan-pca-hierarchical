@@ -1,0 +1,5 @@
+eps,min_samples,clusters,noise_pct,silhouette,davies_bouldin
+0.8,5,0,100.0,,
+0.8,10,0,100.0,,
+1.0,5,0,100.0,,
+1.0,10,0,100.0,,
