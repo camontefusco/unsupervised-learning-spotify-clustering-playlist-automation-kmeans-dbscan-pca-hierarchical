@@ -220,13 +220,13 @@ Moosic/
 │   ├── spotify_5000_songs.csv
 │   └── spotify_5000_songs.cleaned.csv
 ├── notebooks/
-│   ├── Spotify_5000_songs_REWRITE.ipynb
-│   ├── 1_introduction_to_kmeans_Spotify_5000_REWRITE.ipynb
-│   ├── 2_scaling_data_Spotify_5000_REWRITE.ipynb
-│   ├── 3_analysing_k_means__choosing_k_Spotify_5000_REWRITE.ipynb
-│   ├── 4_PCA_Spotify_5000_REWRITE.ipynb
-│   ├── 5_DBSCAN_Spotify_5000_REWRITE.ipynb
-│   └── 6_AgglomerativeClustering_Spotify_5000_REWRITE.ipynb
+│   ├── Spotify_5000_songs.ipynb
+│   ├── 1_introduction_to_kmeans_Spotify_5000.ipynb
+│   ├── 2_scaling_data_Spotify_5000.ipynb
+│   ├── 3_analysing_k_means__choosing_k_Spotify_5000.ipynb
+│   ├── 4_PCA_Spotify_5000.ipynb
+│   ├── 5_DBSCAN_Spotify_5000.ipynb
+│   └── 6_AgglomerativeClustering_Spotify_5000.ipynb
 ├── reports/
 │   ├── scaler_comparison_kmeans20.csv
 │   ├── kmeans_sweep_results.csv
